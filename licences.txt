@@ -1,0 +1,32 @@
+app_icon.png:  Sandeep Singh 2016 , GMDiet Food List For Diet Plan, retrieved from 25 May 2020, <https://www.google.com/search?sa=G&hl=en_GB&tbs=simg:CAQStgIJuqFHnGEDxmMaqgILELCMpwgaYgpgCAMSKPIBmAbzAZwS3wGeBpsS9AaaBvYDwD2kNLs_1sz2jNP8zyzOaPcc_1wT0aMAS-UeZ8WK6sGDK4iVfuaYge5kqjsJwf1jgAP9JFrJZ6GB8xbZIdfm8o7U2fXzvfnSAEDAsQjq7-CBoKCggIARIEoSxJwgwLEJ3twQkaogEKHwoMdHJhZmZpYyBzaWdu2qWI9gMLCgkvbS8wMW1xZHQKGAoGY2lyY2xl2qWI9gMKCggvbS8wMXZrbAojCg9raXRjaGVuIHV0ZW5zaWzapYj2AwwKCi9tLzAzaGx6MGMKGwoIY2xpcCBhcnTapYj2AwsKCS9tLzAzZzA5dAojChBzcG9ydHMgZXF1aXBtZW502qWI9gMLCgkvbS8wNXk1bGoM&sxsrf=ALeKk00CHgqFL-581Z6zmwzQb3Sc6Px4bA:1591016314383&q=diet+png+icon&tbm=isch&ved=2ahUKEwiuhIDS1eDpAhUszzgGHTf0DoIQwg4oAHoECAkQKA&biw=772&bih=710&dpr=1.25#imgrc=bbKFPS6ARbeCuM>
+diary_icon: .png: public image from google
+home_icon.png: public image from google
+profile_icon.png: public image from google
+logout_icon.png: public image from google
+intake.png: Luis Prado 2014 , Hunger, retrieved from 28 May 2020, <https://thenounproject.com/search/?q=food%20intake&i=26617>
+weight.png: Free Icon Library 2018-2019, weight, retrieved from 27 May 2020, <http://icon-library.com/77903b869e.svg.html> 
+
+Code Licences: 
+/* Copyright 2020 The Android Open Source Project, Inc.
+ * 
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+/*
+ * Title: TinyDB--Android-Shared-Preferences-Turbo
+ * Author: KC Ochibili
+ * Date: 2014
+ * Code Version: 3
+ * Availability: <https://github.com/kcochibili/TinyDB--Android-Shared-Preferences-Turbo>
+ *
+ * /
